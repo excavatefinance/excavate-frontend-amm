@@ -64,7 +64,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/goosedefi/",
+        href: "https://github.com/excavatefinance",
       },
       {
         label: "Docs",
@@ -72,7 +72,7 @@ const config: MenuEntry[] = [
       },
       {
         label: "Blog",
-        href: "https://goosefinance.medium.com/",
+        href: "https://medium.com/@excavate.finance",
       },
     ],
   },
